@@ -1,7 +1,9 @@
 # 🌟 5SeungJun's GitHub Profile
+<div align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhtmdwns319)](https://solved.ac/dhtmdwns319/)
+  <img src="http://mazandi.herokuapp.com/api?handle=dhtmdwns319&theme=warm"/>
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhtmdwns319)](https://solved.ac/dhtmdwns319/)
-<img src="http://mazandi.herokuapp.com/api?handle=dhtmdwns319&theme=warm"/>
 
 <!--
 **5SeungJun/5SeungJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
