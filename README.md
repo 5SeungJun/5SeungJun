@@ -2,10 +2,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhtmdwns319)](https://solved.ac/dhtmdwns319/)
 <img src="http://mazandi.herokuapp.com/api?handle=dhtmdwns319&theme=warm"/>
-<img src="http://mazandi.herokuapp.com/api?handle=dhtmdwns319&theme=warm"/>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dhtmdwns319&theme=dark)
-[![mazandi profile]](http://mazandi.herokuapp.com/api?handle=dhtmdwns319&theme=dark)](https://solved.ac/dhtmdwns319/)
 
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=dhtmdwns319&theme=dark)](https://solved.ac/dhtmdwns319/)
 
 
 <!--
