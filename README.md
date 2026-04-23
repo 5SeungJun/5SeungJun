@@ -1,8 +1,5 @@
 # 🌟 5SeungJun's GitHub Profile
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhtmdwns319)](https://solved.ac/dhtmdwns319/)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=dhtmdwns319&theme=dark)](https://solved.ac/dhtmdwns319/)
-
 
 <!--
 **5SeungJun/5SeungJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
